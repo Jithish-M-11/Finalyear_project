@@ -1,0 +1,9 @@
+
+This is the average stress detection level 1.6291556 we have set in our project.
+
+
+Train folder having a data set to identify the facial expression.Used to train CNN.
+
+For CNN DATASET:- "https://drive.google.com/drive/folders/1fxChnyIVhgECz8JCRvfgAVer-W93z846?usp=sharing".
+
+that combines physiological parameters(Using KNN) with facial expression analysis(Using CNN) to identify high stress levels and provide remedies, enhancing safety.
